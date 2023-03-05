@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43863934156",
+    "project_id": "signin-abdfb",
+    "storage_bucket": "signin-abdfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43863934156:android:12ff7b0c236220daec6e69",
+        "android_client_info": {
+          "package_name": "com.example.googlesigninwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43863934156-j0qo47h9op1av6qls1lski3ggs1r38eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb5Zxo56vpR12pbWfKfBH23vJG19TK_4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43863934156-j0qo47h9op1av6qls1lski3ggs1r38eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
